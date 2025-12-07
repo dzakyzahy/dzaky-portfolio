@@ -5,7 +5,8 @@
   --foreground: #F5F5F7;
   --primary: #001A33;
   --secondary: #F5F5F7;
-  --accent: #D4AF37;
+  --accent: #10B981;
+  /* Emerald Green */
 }
 
 @theme inline {
